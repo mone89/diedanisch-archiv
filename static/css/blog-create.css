@@ -1,0 +1,35 @@
+.jumbotron{
+  padding: 60px 80px;
+}
+
+.content {
+  padding: 0px 60px 40px;
+  background-color: white;
+}
+
+.content h2 {
+  text-align: center;
+}
+
+.modal-body {
+  padding: 10px
+}
+
+
+#upload-image-frame .panel button {
+  height: 150px;
+  width: 150px;
+}
+
+.img-link-field {
+  margin: auto;
+  width: 90%;
+  resize: vertical;
+}
+
+.panel-heading p {
+     width: 150;
+     white-space: nowrap;
+     overflow: hidden;
+     text-overflow: ellipsis;
+}

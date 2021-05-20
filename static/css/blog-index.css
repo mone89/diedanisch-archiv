@@ -1,0 +1,59 @@
+.well {
+  background-color: white;
+  border-radius: 0;
+  border: 0px;
+  margin:5px;
+  padding:0px;
+}
+
+h1.fine-font{
+  font-family: 'Pinyon Script';
+  font-variant: initial;
+  font-style: cursive;
+  font-size: 3em;
+  padding:10px;
+  color:  #8A0A10;
+}
+@media (max-width: 768px) {
+  h1.fine-font {
+    font-size: 2em; } }
+
+
+.blog-content-block a {
+  color: black;
+}
+
+.blog-content-block a:hover {
+  text-decoration: none;
+}
+
+.blog-content-block p, h1, h4{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.blog-content-block .dropshadow:hover {
+  -webkit-box-shadow: 0px 4px 16px 0px rgba(0, 0, 0, 0.6);
+  -moz-box-shadow:    0px 4px 16px 0px rgba(0, 0, 0, 0.6);
+  box-shadow:         0px 4px 16px 0px rgba(0, 0, 0, 0.6);
+}
+
+
+.vcenter-md {
+  display: inline-block;
+  vertical-align: middle;
+  float: none; }
+
+.vcenter-md img {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+@media (min-width: 992px) {
+  .vcenter-md {
+    display: flex;
+    align-items: center; }
+  .vcenter-md img {
+  margin-left: -1px;
+  margin-right: -1px;}
+}
