@@ -6,7 +6,7 @@
 /*      Header                                                                */
 /* ===========================================================================*/
 #header {
-  background-image: url(/static/images/sdanisch/title.jpeg);
+  background-image: url(/diedanisch-archiv/static/images/sdanisch/title.jpeg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: auto 100%;
@@ -54,7 +54,7 @@
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
   #about {
-    background-image: url(/static/images/sdanisch/profil.jpeg);
+    background-image: url(/diedanisch-archiv/static/images/sdanisch/profil.jpeg);
     background-repeat: no-repeat;
     background-position: left bottom;
     background-size: auto 68%;
@@ -62,7 +62,7 @@
     padding-bottom: 50px; } }
 @media (min-width: 1200px) {
   #about {
-    background-image: url(/static/images/sdanisch/profil.jpeg);
+    background-image: url(/diedanisch-archiv/static/images/sdanisch/profil.jpeg);
     background-repeat: no-repeat;
     background-position: 70px bottom;
     background-size: auto 78%;
@@ -162,7 +162,7 @@
   margin-bottom: 200px; }
 
 #stimme {
-  background-image: url(/static/images/sdanisch/stimme.jpeg);
+  background-image: url(/diedanisch-archiv/static/images/sdanisch/stimme.jpeg);
   background-repeat: no-repeat;
   background-position: right center;
   background-size: auto 100%;
@@ -211,7 +211,7 @@
 /*      CV                                                                    */
 /* ===========================================================================*/
 #cv {
-  background-image: url(/static/images/sdanisch/cv-back2.jpeg);
+  background-image: url(/diedanisch-archiv/static/images/sdanisch/cv-back2.jpeg);
   background-repeat: no-repeat;
   background-position: left center;
   background-size: auto 100%;
